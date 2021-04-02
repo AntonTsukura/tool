@@ -1,0 +1,27 @@
+input, input:before, input:after {
+	outline: none;
+	border:none;
+	-webkit-user-select: initial;
+	-khtml-user-select: initial;
+	-moz-user-select: initial;
+	-ms-user-select: initial;
+	user-select: initial;
+}
+input {
+    color: var(--main-content-color);
+    background: var(--invisible-color);
+    text-align: left;
+    font-size: var(--clr-fntsz14);
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+  }
+  input:focus{
+      color: var(--selected-element);
+  }
+  ::-webkit-input-placeholder {
+    color: var(--main-content-color);
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+  }
