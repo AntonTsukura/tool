@@ -1,5 +1,4 @@
-#  (EN)
-## Теговый классификатор информации на js, php! (RU)
+#  Tool for classifying information by tags (js, php)
 
 ## Start (development mode)
 Type in root of project:
