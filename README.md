@@ -1,4 +1,4 @@
-#  Tool for classifying information by tags (js, php)
+#  Tool for classifying information by tags (js, php, sql)
 
 ## Start (development mode)
 Type in root of project:
