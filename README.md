@@ -12,5 +12,9 @@ Type in root of project:
 Type in root of project:
 > npm run build
 
-# Simple function using here. Description
+# Simple function used here. Description
+Multiple selection
+Ajax requests
+Time delay
+Tags classification (under development)
 text text text...
