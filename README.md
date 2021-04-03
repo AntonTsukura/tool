@@ -11,3 +11,6 @@ Type in root of project:
 ## Build
 Type in root of project:
 > npm run build
+
+# Simple function using here. Description
+text text text...
