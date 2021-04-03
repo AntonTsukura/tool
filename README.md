@@ -13,8 +13,9 @@ Type in root of project:
 > npm run build
 
 # Simple function used here. Description
-Multiple selection
-Ajax requests
-Time delay
-Tags classification (under development)
-text text text...
+1. Multiple selection
+2. Ajax requests
+3. Time delay
+4.Tags classification (under development)
+
+...
